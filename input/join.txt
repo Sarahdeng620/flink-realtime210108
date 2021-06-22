@@ -1,0 +1,12 @@
+A 表
+1 zhangsan
+2 lisi
+3 wangwu
+4 maoliu
+
+
+B 表
+1 male
+2 female
+3 male
+4 female
